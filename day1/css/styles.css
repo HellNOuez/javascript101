@@ -1,0 +1,15 @@
+html{
+
+    --primary-color:red;
+}
+body{
+    background-color: yellow;
+}
+
+h1{
+    border-bottom: 15px solid var(--primary-color);
+}
+p{
+    border-right: 15px solid rgb(196, 87, 87);
+}
+/*my css comment*/
